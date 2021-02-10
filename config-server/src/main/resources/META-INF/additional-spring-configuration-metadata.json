@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "server.spring.cloud.config.server.git.uri",
+      "type": "java.lang.String",
+      "description": "Description for server.spring.cloud.config.server.git.uri."
+  }
+] }
